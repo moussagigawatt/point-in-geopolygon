@@ -1,0 +1,19 @@
+{
+  "name": "point-in-geopolygon",
+  "version": "1.0.0",
+  "description": "Determine if a point is inside a GeoJSON feature (polygon or Multipolygon).",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "point",
+    "GeoJSON",
+    "feature"
+  ],
+  "author": "Akrem Hadji",
+  "license": "MIT"
+}
